@@ -3,7 +3,7 @@
   - Apresentação do curso
   - Google Colab
   - Python
-  - SciPy
+  - Numpy
   - Matplatolib 
   - Pandas
 
