@@ -28,9 +28,6 @@ Prof. Carlos Artur Guimarães
 ---
 
 * [04](Aula_4_Numpy.ipynb) - Numpy Parte2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_4_Numpy_Matplotib.ipynb)
-
-
-
 ---
 
 * Materiais de referência:
