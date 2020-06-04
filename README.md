@@ -27,7 +27,7 @@ Prof. Carlos Artur Guimarães
 * [03](Aula_3_Numpy.ipynb) - Introdução ao Numpy. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_3_Numpy.ipynb)
 ---
 
-* [04](Aula_4_Numpy.ipynb) - Numpy Parte2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_4_Numpy_Matplotib.ipynb)
+* [05](Aula_4_Numpy_Matplotib.ipynb) - Numpy_Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_4_Numpy_Matplotib.ipynb)
 ---
 
 * Materiais de referência:
