@@ -8,9 +8,19 @@
   - Pandas
 
 Disciplina Introdução à Programação Python
+
+
+
+
+
 Prof. Carlos Artur Guimarães
 
-> Material adaptado: Tópicos de Tecnologia Educacional  2019-1 PPGITE/IMD 
+> Material adap
+
+
+
+
+tado: Tópicos de Tecnologia Educacional  2019-1 PPGITE/IMD 
 
 > UFRN Prof.s Isabel Nunes e Luiz Affonso Guedes
 
