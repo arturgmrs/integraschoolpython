@@ -32,12 +32,22 @@ Prof. Carlos Artur Guimarães
 
 ---
 
-* [05](Aula_5Pandas.ipynb) - Pandas - Primeiros passos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_5Pandas.ipynb)
+* [05](Aula_5_Pandas.ipynb) - Pandas - Primeiros passos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_5_Pandas.ipynb)
 
 ---
 
 * Materiais de referência:
-  * [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)
-  * [Python4Maths](https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git)
-  * [The Python Bible](https://www.udemy.com/the-python-bible/)
-  * [Pandas Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook)
+  * Em potuguês:
+    * [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
+    * [Introdução à Ciência da Computação com Python Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
+  * Em inglês:
+    * [W3Schools: Python Tutorial](https://www.w3schools.com/python/)
+    * [W3Schools: NumPy Introduction](https://www.w3schools.com/python/numpy_intro.asp)
+    * [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)
+    * [Python4Maths](https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git)
+    * [The Python Bible](https://www.udemy.com/the-python-bible/)
+    * [Pandas Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook)
+  * Documentação Oficial:
+    * [Python 3.8.3 documentation](https://docs.python.org/3/)
+    * [NumPy v1.18 Manual](https://numpy.org/doc/stable/)
+    * [Pandas documentation](https://pandas.pydata.org/docs/)
