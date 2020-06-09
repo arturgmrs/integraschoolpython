@@ -44,3 +44,4 @@ tado: Tópicos de Tecnologia Educacional  2019-1 PPGITE/IMD
   * [Python Lectures](https://github.com/rajathkmp/Python-Lectures.git)
   * [Python4Maths](https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git)
   * [The Python Bible](https://www.udemy.com/the-python-bible/)
+  * [Pandas Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook)
