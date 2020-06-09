@@ -49,5 +49,6 @@ Prof. Carlos Artur Guimarães
     * [Pandas Cookbook](https://github.com/PacktPublishing/Pandas-Cookbook)
   * Documentação Oficial:
     * [Python 3.8.3 documentation](https://docs.python.org/3/)
+    * [Matplotlib documentation](https://matplotlib.org/contents.html)
     * [NumPy v1.18 Manual](https://numpy.org/doc/stable/)
     * [Pandas documentation](https://pandas.pydata.org/docs/)
