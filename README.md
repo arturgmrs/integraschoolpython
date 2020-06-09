@@ -32,7 +32,7 @@ Prof. Carlos Artur Guimarães
 
 ---
 
-* [05](Aula_5Pandas.ipynb) - Numpy_Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_5Pandas.ipynb)
+* [05](Aula_5Pandas.ipynb) - Pandas - Primeiros passos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_5Pandas.ipynb)
 
 ---
 
