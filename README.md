@@ -36,6 +36,11 @@ Prof. Carlos Artur Guimarães
 
 ---
 
+* [06] O Link para o formulário desenvolvimento pelo grupo: (https://colab.research.google.com/assets/colab-badge.svg)* 
+* [07] O Link para a notícia: (tribunad...)
+
+
+---
 * Materiais de referência:
   * Em potuguês:
     * [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
