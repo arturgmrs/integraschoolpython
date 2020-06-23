@@ -36,9 +36,12 @@ Prof. Carlos Artur Guimarães
 
 ---
 
+* [07](Aula_7_Plotly.ipynb) - Plotly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_7_Plotly.ipynb)
+
+---
+
 * [06] O Link para o formulário desenvolvimento pelo grupo: (https://colab.research.google.com/assets/colab-badge.svg)* 
 * [07] O Link para a notícia: (tribunad...)
-
 
 ---
 * Materiais de referência:
