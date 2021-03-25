@@ -1,5 +1,5 @@
 # Integra School - Curso Python
-- Curso de Introdução à Programação Python
+- Curso de Python para Visualização de Dados
   - Apresentação do curso
   - Google Colab
   - Pandas
