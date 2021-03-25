@@ -2,18 +2,17 @@
 - Curso de Introdução à Programação Python
   - Apresentação do curso
   - Google Colab
+  - Pandas
   - Python
   - Numpy
   - Matplatolib 
-  - Pandas
+  
 
 Disciplina Introdução à Programação Python
 Prof. Carlos Artur Guimarães
 
 > Material adaptado: Tópicos de Tecnologia Educacional  2019-1 PPGITE/IMD 
-
 > UFRN Prof.s Isabel Nunes e Luiz Affonso Guedes
-
 ---
 
 * [01](Aula_1_Python.ipynb) - Introdução à Linguagem Python. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arturgmrs/integraschoolpython/blob/master/Aula_1_Python.ipynb)
